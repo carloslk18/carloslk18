@@ -1,4 +1,8 @@
-### Hi! I'm Carlos Barbosa!
+### Hi there! i'm Carlos Barbosa.
+
+I'm a Software Engineering student with a strong interest in Back-End development and a commitment to continuous learning. Currently, I'm diving deeper into C#, .NET, SQL Server, and agile methodologies. Alongside my studies, I pursue hands-on projects, exploring everything from game creation to UI design. I'm always open to new technologies and challenges that help me grow as a developer and team member.
+
+<hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosbarbosa-dev/)
 [![Portfolio](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
@@ -6,6 +10,8 @@
 [![Gmail](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
 
 ![Carlos Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=carloslk18&show_icons=true&theme=dark)
+
+<hr>
 
 ### My technologies
 
@@ -18,6 +24,7 @@
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
+<hr>
 
 ### Informations
 
