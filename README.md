@@ -18,9 +18,10 @@
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
-###Informations
 
-- 😄 Pronouns: HE/HIS
+### Informations
+
+- 😄 Pronouns: He/His
 - 🔭 I’m currently working on Sonda IT
 - 🌱 I’m currently learning C# and MS's universe
 - 📫 How to reach me: carloslk18@gmail.com
