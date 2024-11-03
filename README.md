@@ -1,6 +1,6 @@
-### Hi there! i'm Carlos Barbosa.
+### Hi there! I'm Carlos Barbosa.
 
-I'm a Software Engineering student with a strong interest in Back-End development and a commitment to continuous learning. Currently, I'm diving deeper into C#, .NET, SQL Server, and agile methodologies. Alongside my studies, I pursue hands-on projects, exploring everything from game creation to UI design. I'm always open to new technologies and challenges that help me grow as a developer and team member.
+I'm a Software Engineering student with a strong interest in Back-End development and a commitment to continuous learning. Currently, I'm diving deeper into C#, .NET, SQL Server, and agile methodologies. Alongside my studies, i pursue hands-on projects, exploring everything from game creation to UI design. I'm always open to new technologies and challenges that help me grow as a developer and my team member.
 
 <hr>
 
