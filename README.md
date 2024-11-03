@@ -5,9 +5,9 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 <hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosbarbosa-dev/)
-[![Portfolio](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
+[![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
-[![Gmail](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
+[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
 
 ![Carlos Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=carloslk18&show_icons=true&theme=dark)
 
