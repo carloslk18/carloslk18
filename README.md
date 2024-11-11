@@ -27,7 +27,7 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 
 ### Informations
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Sonda IT
 - 🌱 I’m currently learning C# and MS's universe
 - 📫 How to reach me: carloslk18@gmail.com
