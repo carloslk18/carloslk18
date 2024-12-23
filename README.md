@@ -19,9 +19,9 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/static/v1?label=&message=.NET+Core&color=%23512BD4&style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core">
     <img align="center" alt="ASP.NET" src="https://img.shields.io/static/v1?label=&message=ASP.NET&color=%23E8E8E8&style=for-the-badge">
-    <img align="center" alt="MS_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/static/v1?label=&message=SQL+SERVER&color=%23EC1C24&style=for-the-badge" alt="SQL SERVER">
     <img align="center" src="https://img.shields.io/static/v1?label=&message=BLAZOR&color=white&style=for-the-badge&logo=blazor&logoColor=%23512BD4" alt="BLAZOR">
     <img align="center" alt="MS_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
