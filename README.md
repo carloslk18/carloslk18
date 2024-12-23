@@ -11,7 +11,11 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloslk18&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=carloslk18&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslk18&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloslk18&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <hr>
 
