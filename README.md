@@ -1,10 +1,10 @@
 <h2> Hi there! I'm Carlos.</h2>
 
-<h3>My technologies</h3>
-
 I'm a Software Engineering student with a strong interest in Back-End development and a commitment to continuous learning. Currently, I'm diving deeper into C#, .NET, SQL Server, Microsoft Azure and agile methodologies. Alongside my studies, i pursue hands-on projects, exploring everything from game creation to UI design. I'm always open to new technologies and challenges that help me grow as a developer and my team member.
 
 <hr>
+
+<h3>Contact</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosbarbosa-dev/)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
@@ -15,7 +15,7 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 
 <hr>
 
-<h3>My technologies</h3>
+<h3>Technologies</h3>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
