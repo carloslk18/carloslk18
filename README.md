@@ -3,7 +3,6 @@
 I'm a Software Engineering student with a strong interest in Back-End development and a commitment to continuous learning. Currently, I'm diving deeper into C#, .NET, SQL Server, Microsoft Azure and agile methodologies. Alongside my studies, i pursue hands-on projects, exploring everything from game creation to UI design. I'm always open to new technologies and challenges that help me grow as a developer and my team member.
 
 <hr>
-<hr>
 
 <h3>Contact</h3>
 
@@ -12,9 +11,12 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
 
+<hr>
+
+<h3>Stats</h3>
+
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=carloslk18&theme=dark&hide_border=true)
 
-<hr>
 <hr>
 
 <h3>Technologies</h3>
@@ -29,7 +31,6 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 
 </div>
 
-<hr>
 <hr>
 
 <h3>Informations</h3>
