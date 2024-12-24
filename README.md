@@ -4,7 +4,7 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 
 <hr>
 
-<h3>Contact</h3>
+<h3>-Contact-</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosbarbosa-dev/)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://carloslk18.github.io/Portfolio_CB/)
@@ -13,13 +13,13 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 
 <hr>
 
-<h3>Stats</h3>
+<h3>-Stats-</h3>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=carloslk18&theme=dark&hide_border=true)
 
 <hr>
 
-<h3>Technologies</h3>
+<h3>-Technologies-</h3>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -33,7 +33,7 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
 
 <hr>
 
-<h3>Informations</h3>
+<h3>-Informations-</h3>
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Sonda IT in Brazil
