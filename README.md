@@ -28,10 +28,12 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
     <img align="center" src="https://img.shields.io/static/v1?label=&message=SQL+SERVER&color=%23EC1C24&style=for-the-badge" alt="SQL SERVER">
     <img align="center" src="https://img.shields.io/static/v1?label=&message=BLAZOR&color=white&style=for-the-badge&logo=blazor&logoColor=%23512BD4" alt="BLAZOR">
     <img align="center" alt="MS_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-
 </div>
+
 <hr>
+
 <h3>- Informations -</h3>
+
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Sonda IT in Brazil
 - 🌱 I’m currently learning C# and Microsoft services
