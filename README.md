@@ -30,11 +30,8 @@ I'm a Software Engineering student with a strong interest in Back-End developmen
     <img align="center" alt="MS_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
 </div>
-
 <hr>
-
 <h3>- Informations -</h3>
-
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Sonda IT in Brazil
 - 🌱 I’m currently learning C# and Microsoft services
