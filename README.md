@@ -28,7 +28,6 @@
     <img align="center" src="https://img.shields.io/static/v1?label=&message=BLAZOR&color=white&style=for-the-badge&logo=blazor&logoColor=%23512BD4" alt="BLAZOR">
     <img align="center" alt="MS_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
-
 <hr>
 
 <h3>- Informations -</h3>
