@@ -35,5 +35,5 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Sonda IT in Brazil
-- 🌱 I’m currently learning C# and Microsoft services
+- 🌱 I’m currently learning C# and Microsoft World
 - 📫 How to reach me: carloslk18@gmail.com
