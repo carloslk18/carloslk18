@@ -19,7 +19,7 @@
 
 <hr>
 
-<h3>- Technologies -</h3>
+<h3>- Tools -</h3>
 <div style="display: inline_block"><br/>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" src="https://img.shields.io/static/v1?label=&message=.NET+Core&color=%23512BD4&style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core">
@@ -27,6 +27,7 @@
     <img align="center" src="https://img.shields.io/static/v1?label=&message=SQL+SERVER&color=%23EC1C24&style=for-the-badge" alt="SQL SERVER">
     <img align="center" src="https://img.shields.io/static/v1?label=&message=BLAZOR&color=white&style=for-the-badge&logo=blazor&logoColor=%23512BD4" alt="BLAZOR">
     <img align="center" alt="MS_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker" alt="Docker">
 </div>
 
 <hr>
