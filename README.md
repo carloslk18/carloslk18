@@ -43,6 +43,6 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 - 🌱 Proficiency with C# and JavaScript
 - 📫 How to reach me: carloslk18@gmail.com
 
-<--! <h3>- Stats -</h3>
+<!-- <h3>- Stats -</h3>
 
  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=carloslk18&theme=dark&hide_border=true) -->
