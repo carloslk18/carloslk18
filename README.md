@@ -11,11 +11,11 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 <h3>- Tools -</h3>
 
 - <b>Front-end:</b> JavaScript, Blazor, React, HTML, CSS
-- Back-end: .NET, C#, ASP.NET, Entity Framework, Dapper
-- Database: SQL Server, PostgreSQL, MongoDB 
-- DevOps & Cloud: Git, GitHub, Docker, Microsoft Azure
-- Methodologies: UI/UX, Scrum, Kanban
-- Architecture: Monolith, MVC, Onion, REST
+- <b>Back-end:</b> .NET, C#, ASP.NET, Entity Framework, Dapper
+- <b>Database:</b> SQL Server, PostgreSQL, MongoDB 
+- <b>DevOps & Cloud:</b> Git, GitHub, Docker, Microsoft Azure
+- <b>Methodologies:</b> UI/UX, Scrum, Kanban
+- <b>Architecture:</b> Monolith, MVC, Onion, REST
 
 <hr>
 
@@ -29,7 +29,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 
 <h3>- Informations -</h3>
 
-- 😄 Pronouns: He/Him
+- 😄 </b>Pronouns:</b> He/Him
 - 🔭 I’m currently working on Sonda IT in Brazil
 - 🌱 Proficiency with C# and JavaScript
 - 📫 How to reach me: carloslk18@gmail.com
