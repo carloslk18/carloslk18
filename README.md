@@ -29,7 +29,13 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 - Back-end: .NET, C#, ASP.NET, Entity Framework, Dapper
 - Database: SQL Server, PostgreSQL, MongoDB 
 - DevOps & Cloud: Git, GitHub, Docker, Microsoft Azure
-- Others: Scrum, Kanban, UI/UX
+- Methodologies: UI/UX, Scrum, Kanban
+- Architecture: Monolith, MVC, Onion, REST
+
+- Always Learning -
+- Clean Architecture, TDD, SOLID, JWT, Identity
+- Best practices for clean and secure code
+- API integrations and authentication
 
 <hr>
 
