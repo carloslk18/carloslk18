@@ -24,7 +24,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 <hr>
 
 <h3>- Tools -</h3>
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" src="https://img.shields.io/static/v1?label=&message=.NET+Core&color=%23512BD4&style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core">
     <img align="center" alt="ASP.NET" src="https://img.shields.io/static/v1?label=&message=ASP.NET&color=%23E8E8E8&style=for-the-badge">
