@@ -32,7 +32,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 - Methodologies: UI/UX, Scrum, Kanban
 - Architecture: Monolith, MVC, Onion, REST
 
-- Always Learning -
+<h3>- Always Learning -</h3>
 - Clean Architecture, TDD, SOLID, JWT, Identity
 - Best practices for clean and secure code
 - API integrations and authentication
