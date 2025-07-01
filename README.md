@@ -1,6 +1,10 @@
 <h2>Hi there! I'm Carlos.</h2>
 
-<p>I'm a Software Engineering student with a strong interest in Back-End development and a commitment to continuous learning. Currently, I'm diving deeper into C#, .NET, SQL Server, Microsoft Azure and agile methodologies. Alongside my studies, i pursue hands-on projects, exploring everything from game creation to UI design. I'm always open to new technologies and challenges that help me grow as a developer and my team.</p>
+I'm a Software Engineering student focused on the .NET ecosystem and web development.
+
+I'm currently studying and building projects using C#, ASP.NET, Blazor, React, SQL Server, and Azure. I'm familiar with tools like Entity Framework, Dapper, and Docker, and I'm constantly improving my problem-solving skills and data modeling abilities (SQL).
+
+I also have knowledge in UI/UX design and agile methodologies such as Scrum and Kanban, which I apply in both academic and personal projects.
 
 <hr>
 
