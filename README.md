@@ -17,12 +17,6 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 
 <hr>
 
-<h3>- Stats -</h3>
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=carloslk18&theme=dark&hide_border=true)
-
-<hr>
-
 <h3>- Tools -</h3>
 
 - Front-end: JavaScript, Blazor, React, HTML, CSS
@@ -32,7 +26,10 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 - Methodologies: UI/UX, Scrum, Kanban
 - Architecture: Monolith, MVC, Onion, REST
 
+<hr>
+
 <h3>- Always Learning -</h3>
+
 - Clean Architecture, TDD, SOLID, JWT, Identity
 - Best practices for clean and secure code
 - API integrations and authentication
@@ -45,3 +42,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 - 🔭 I’m currently working on Sonda IT in Brazil
 - 🌱 Proficiency with C# and JavaScript
 - 📫 How to reach me: carloslk18@gmail.com
+
+<--! <h3>- Stats -</h3>
+
+ ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=carloslk18&theme=dark&hide_border=true) -->
