@@ -10,7 +10,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 
 <h3>- Tools -</h3>
 
-- Front-end: JavaScript, Blazor, React, HTML, CSS
+- <b>Front-end:</b> JavaScript, Blazor, React, HTML, CSS
 - Back-end: .NET, C#, ASP.NET, Entity Framework, Dapper
 - Database: SQL Server, PostgreSQL, MongoDB 
 - DevOps & Cloud: Git, GitHub, Docker, Microsoft Azure
