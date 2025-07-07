@@ -31,7 +31,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 
 - 😄 </b>Pronouns:</b> He/Him
 - 🔭 I’m currently working on Sonda IT in Brazil
-- 🌱 Proficiency with C# and JavaScript
+- 🌱 Proficiency with C# and TypeScript
 - 📫 How to reach me: carloslk18@gmail.com
 
 <!-- <h3>- Stats -</h3>
