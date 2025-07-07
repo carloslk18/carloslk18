@@ -15,7 +15,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 - <b>Database:</b> SQL Server, PostgreSQL, MongoDB 
 - <b>DevOps & Cloud:</b> Git, GitHub, Docker, Microsoft Azure
 - <b>Methodologies:</b> UI/UX, Scrum, Kanban
-- <b>Architecture:</b> Monolith, MVC, Onion, REST
+- <b>Architecture:</b> MVC, Onion, REST
 
 <hr>
 
