@@ -8,6 +8,8 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 
 <hr>
 
+
+
 <h3>- Tools -</h3>
 
 - <b>Front-end:</b> React, Next.js, JavaScript, TypeScript, Blazor
