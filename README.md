@@ -39,7 +39,6 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=carloslk18&theme=dark&hide_border=true) -->
 
 <!-- <h3>- Contact -</h3>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosbarbosa-dev/)
 [![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://www.linkedin.com/in/carlosbarbosa-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/carlosbarbosa-dev/)
