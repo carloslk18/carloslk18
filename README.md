@@ -18,6 +18,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 - <b>Architecture:</b> MVC, Onion, REST
 
 <hr>
+
 <h3>- Always Learning -</h3>
 
 - Clean Architecture, TDD, SOLID, JWT, Identity
