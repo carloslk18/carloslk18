@@ -1,8 +1,8 @@
 <h2>Hi there! I'm Carlos.</h2>
 
-I'm a Software Engineering student focused on the .NET ecosystem and web development.
+I'm a Software Engineering student focused on the .NET ecosystem and DevOps engineering.
 
-I'm currently studying and building projects using C#, ASP.NET, Blazor, React, SQL Server, and Azure. I'm familiar with tools like Entity Framework, Dapper, and Docker, and I'm constantly improving my problem-solving skills and data modeling abilities (SQL).
+I'm currently studying and building projects using C#, ASP.NET, Blazor, React, SQL Server, and AWS. I'm familiar with tools like Entity Framework, Dapper, and Docker, and I'm constantly improving my problem-solving skills and data modeling abilities (SQL).
 
 I also have knowledge in UI/UX design and agile methodologies such as Scrum and Kanban, which I apply in both academic and personal projects.
 
@@ -12,8 +12,8 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 
 - <b>Front-end:</b> React, Next.js, JavaScript, TypeScript, Blazor
 - <b>Back-end:</b> .NET, C#, ASP.NET, Entity Framework, Dapper
-- <b>Database:</b> SQL Server, PostgreSQL, MongoDB 
-- <b>DevOps & Cloud:</b> Git, GitHub, Docker, Microsoft Azure
+- <b>Database:</b> SQL Server, PostgreSQL, MySQL, MongoDB 
+- <b>DevOps & Cloud:</b> GitLab, GitHub, Docker, AWS
 - <b>Methodologies:</b> Lean, Scrum, Kanban
 - <b>Architecture:</b> MVC, Onion, REST
 
