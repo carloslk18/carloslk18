@@ -30,7 +30,7 @@ I also have knowledge in UI/UX design and agile methodologies such as Scrum and 
 <h3>- Informations -</h3>
 
 - 😄 </b>Pronouns:</b> He/Him
-- 🔭 I’m currently working on Deal Technologies in Brazil
+- 🔭 I’m currently working on Deal Group in Brazil
 - 🌱 Proficiency with C# and TypeScript
 - 📫 How to reach me: carloslk18@gmail.com
 
