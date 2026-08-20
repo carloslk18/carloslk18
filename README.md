@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student currently focused on <b>Cloud & DevOps</b>, with a background in software development.
 
-I enjoy understanding how applications work from development to production. I'm currently gaining hands-on experience with <b>CI/CD, containerization, Kubernetes, cloud environments, monitoring and observability</b>.
+I enjoy understanding how applications work from development to production. I'm currently gaining hands-on experience with <b> containerization, Kubernetes, cloud environments, monitoring and observability</b>.
 
 I'm also deepening my knowledge of <b>Go and Python</b>, exploring how they can be applied to cloud, automation and infrastructure.
 
