@@ -14,7 +14,6 @@ I'm also deepening my knowledge of <b>Go and Python</b>, exploring how they can 
 * <b>Containers:</b> Docker, Kubernetes
 * <b>CI/CD:</b> GitLab CI/CD, GitHub Actions, Jenkins
 * <b>Observability:</b> Prometheus, Grafana
-* <b>Infrastructure as Code:</b> Terraform
 * <b>Version Control:</b> Git, GitHub, GitLab
 * <b>Operating Systems:</b> Linux
 
@@ -32,7 +31,6 @@ I'm also deepening my knowledge of <b>Go and Python</b>, exploring how they can 
 <h3>- Currently Learning -</h3>
 
 * Go and Python for Cloud & DevOps
-* Infrastructure as Code with Terraform
 * Kubernetes and container orchestration
 * Monitoring and observability
 * Cloud architecture and automation
@@ -41,9 +39,9 @@ I'm also deepening my knowledge of <b>Go and Python</b>, exploring how they can 
 
 <h3>- A little more about me -</h3>
 
-* 🔭 Currently working in Cloud & DevOps at Deal Group
+* 🤓 </b>Pronouns:</b> He/Him
+* 🔭 Currently working in NOC at Deal Group
 * 🌱 Continuously learning through hands-on projects and practical experimentation
-* 💻 I enjoy building things and understanding how they work under the hood
 * 📚 Software Engineering student
 * 📫 How to reach me: [carloslk18@gmail.com](mailto:carloslk18@gmail.com)
 
