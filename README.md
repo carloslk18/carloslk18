@@ -11,9 +11,9 @@ I'm also deepening my knowledge of <b>Go and Python</b>, exploring how they can 
 <h3>- Cloud & DevOps -</h3>
 
 * <b>Cloud:</b> AWS, Azure
-* <b>Containers:</b> Docker, Kubernetes
+* <b>Containers:</b> Docker, Kubernetes, Rancher
 * <b>CI/CD:</b> GitHub Actions, GitLab CI/CD, Jenkins
-* <b>Observability:</b> Prometheus, Grafana
+* <b>Observability:</b> Prometheus, Grafana, Datadog
 * <b>Version Control:</b> Git, GitHub, GitLab
 * <b>Operating Systems:</b> Linux
 
