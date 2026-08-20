@@ -12,7 +12,7 @@ I'm also deepening my knowledge of <b>Go and Python</b>, exploring how they can 
 
 * <b>Cloud:</b> AWS, Azure
 * <b>Containers:</b> Docker, Kubernetes
-* <b>CI/CD:</b> GitLab CI/CD, GitHub Actions, Jenkins
+* <b>CI/CD:</b> GitHub Actions, GitLab CI/CD, Jenkins
 * <b>Observability:</b> Prometheus, Grafana
 * <b>Version Control:</b> Git, GitHub, GitLab
 * <b>Operating Systems:</b> Linux
