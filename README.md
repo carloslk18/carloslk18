@@ -1,38 +1,52 @@
 <h2>Hi there! I'm Carlos.</h2>
 
-I'm a Software Engineering student focused on the .NET ecosystem and DevOps engineering.
+I'm a Software Engineering student currently focused on <b>Cloud & DevOps</b>, with a background in software development.
 
-I'm currently studying and building projects using C#, ASP.NET, Blazor, React, SQL Server, and AWS. I'm familiar with tools like Entity Framework, Dapper, and Docker, and I'm constantly improving my problem-solving skills and data modeling abilities (SQL).
+I enjoy understanding how applications work from development to production. I'm currently gaining hands-on experience with <b>CI/CD, containerization, Kubernetes, cloud environments, monitoring and observability</b>.
 
-I also have knowledge in UI/UX design and agile methodologies such as Scrum and Kanban, which I apply in both academic and personal projects.
-
-<hr>
-
-<h3>- Tools -</h3>
-
-- <b>Front-end:</b> React, Next.js, JavaScript, TypeScript, Blazor
-- <b>Back-end:</b> .NET, C#, ASP.NET, Entity Framework, Dapper
-- <b>Database:</b> SQL Server, PostgreSQL, MySQL, MongoDB 
-- <b>DevOps & Cloud:</b> GitLab, GitHub, Docker, AWS
-- <b>Methodologies:</b> Lean, Scrum, Kanban
-- <b>Architecture:</b> MVC, Onion, REST
+I'm also deepening my knowledge of <b>Go and Python</b>, exploring how they can be applied to cloud, automation and infrastructure.
 
 <hr>
 
-<h3>- Always Learning -</h3>
+<h3>- Cloud & DevOps -</h3>
 
-- Clean Architecture, TDD, SOLID, JWT, Identity
-- Best practices for clean and secure code
-- API integrations and authentication
+* <b>Cloud:</b> AWS, Azure
+* <b>Containers:</b> Docker, Kubernetes
+* <b>CI/CD:</b> GitLab CI/CD, GitHub Actions, Jenkins
+* <b>Observability:</b> Prometheus, Grafana
+* <b>Infrastructure as Code:</b> Terraform
+* <b>Version Control:</b> Git, GitHub, GitLab
+* <b>Operating Systems:</b> Linux
 
 <hr>
 
-<h3>- Informations -</h3>
+<h3>- Development -</h3>
 
-- 😄 </b>Pronouns:</b> He/Him
-- 🔭 I’m currently working on Deal Group in Brazil
-- 🌱 Proficiency with C# and TypeScript
-- 📫 How to reach me: carloslk18@gmail.com
+* <b>Languages:</b> Go, Python, C#
+* <b>Back-end:</b> .NET, ASP.NET Core, Entity Framework, Dapper
+* <b>Databases:</b> PostgreSQL, SQL Server, MongoDB
+* <b>APIs:</b> REST
+
+<hr>
+
+<h3>- Currently Learning -</h3>
+
+* Go and Python for Cloud & DevOps
+* Infrastructure as Code with Terraform
+* Kubernetes and container orchestration
+* Monitoring and observability
+* Cloud architecture and automation
+
+<hr>
+
+<h3>- A little more about me -</h3>
+
+* 🔭 Currently working in Cloud & DevOps at Deal Group
+* 🌱 Continuously learning through hands-on projects and practical experimentation
+* 💻 I enjoy building things and understanding how they work under the hood
+* 📚 Software Engineering student
+* 📫 How to reach me: [carloslk18@gmail.com](mailto:carloslk18@gmail.com)
+
 
 <!-- <h3>- Stats -</h3>
 
